@@ -246,7 +246,7 @@ Si deseas más información o concertar una sesión, estaré encantada de ayudar
 
 </div>
 
-<form id="contactForm" class="formulario-contacto">
+<form class="formulario-contacto">
 
     <input
         type="text"
